@@ -14,7 +14,7 @@ function App() {
         <div className="intro">
           <h3>About Me</h3>
           <p>
-            I’m a Computer Science graduate student at the University of Texas at Arlington with a strong background in technology and hands-on experience across various internships. I've worked with AWS on cloud architecture, Path Creators on robotics, Indian Servers Company on cybersecurity, and IBM on data science and machine learning. I specialize in Java, Python, SQL, and PostgreSQL, and am skilled in Spring Boot, Maven, Selenium, and AWS. I’ve also led projects in biometric security and road lane detection. I’m passionate about technology and eager to contribute to innovative projects. Connect with me on LinkedIn or reach out for collaboration opportunities!
+           I Meghana, a graduate in Computer Science from the University of Texas at Arlington (UTA). I have about 3 years of experience as a Full Stack Java Developer, having worked at organizations like HIQ, Verzeo, Accenture, and Amazon. At HIQ, I focus on designing scalable applications, while my previous roles involved contributing to a customer-facing platform redesign and building a seamless SPA at verzeo, Accenture. I also completed an internship at Amazon, where I helped develop cloud solutions. I’m now seeking full-time opportunities where I can apply my experience in Java development, microservices, and cloud computing.
           </p>
         </div>
         <div className="education">
