@@ -8,9 +8,10 @@ function App() {
       <header className="App-header">
         <h1>Welcome to My Portfolio</h1>
         <h2>Hi, I'm Meghana! <span role="img" aria-label="wave">👋</span></h2>
-        <div className="profile-picture">
-          <img src="/images/my-picture.jpg" alt="Meghana" />
-        </div>
+       <div className="profile-picture">
+  <img src="/images/my-picture.jpg" alt="Meghana" style={{ width: '200px', height: '200px' }} />
+</div>
+
         <div className="intro">
           <h3>About Me</h3>
           <p>
